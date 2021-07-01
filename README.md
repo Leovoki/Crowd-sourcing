@@ -1,5 +1,5 @@
 # Crowd-sourcing introduction
-
+**注意，由于数据量太大，因此没有上传数据**
 
 # 背景知识：
 
